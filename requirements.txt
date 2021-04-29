@@ -3,4 +3,5 @@ seaborn
 flask
 joblib	
 requests
+gunicorn
 	
