@@ -3,5 +3,4 @@ seaborn
 flask
 joblib	
 requests
-pickle
 	
